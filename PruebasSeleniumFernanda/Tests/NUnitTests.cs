@@ -71,7 +71,7 @@ public class NUnitTests
     [Category("smoke")]
     public void TestWithPOM()
     {
-        // Prueba
+        // Prueba Test with GitHub
         // POM initalization
         LoginPage loginPage = new LoginPage(_driver);
 
